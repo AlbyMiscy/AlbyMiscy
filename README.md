@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Ciao 🫰 sono Michelle Alberti</h1>
-<h3 align="center">Sono una studentessa dell'Università di Genova - informatica</h3>
+<p align="center">Sono una studentessa di informatica di 21 anni, attualmente iscritta all'Università di Genova, ma originaria di Imperia. Mi appassiona tutto ciò che riguarda la programmazione e lo sviluppo software, e sto iniziando la mia carriera professionale lavorando in un'azienda a Genova. Sono sempre entusiasta di apprendere nuove tecnologie e collaborare a progetti stimolanti!</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,3 +1,4 @@
 <div align="center">
-    <img height="300em" src="coding.gif">
+    <img src="assets/coding.gif" width=800>
+    <hr>
 </div>

@@ -6,6 +6,8 @@
 </div>
 <br>
 
+[![](https://visitcount.itsvg.in/api?id=albymiscy&label=Profile%20Views&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
+
 ## Tech Stack :
 
 <p align="center">
@@ -24,3 +26,6 @@
 | GitHub Stats | GitHub Streak |
 |--------------|---------------|
 | ![](https://github-readme-stats.vercel.app/api?username=AlbyMiscy&theme=dark&hide_border=true&include_all_commits=false&count_private=false) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlbyMiscy&theme=dark&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats) |
+
+## Random Dev Quote
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)

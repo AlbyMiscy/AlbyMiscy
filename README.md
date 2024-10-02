@@ -4,7 +4,7 @@
 </div>
 <br>
 
-## Tech Stack :
+## Tech Stack :desktop_computer: :
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" width="40" style="background-color:#2E3440; border-radius:10px; padding:5px;"/>
@@ -17,7 +17,7 @@
 </p>
 <br>
 
-## GitHub Stats :
+## GitHub Stats :top: :
 
 | GitHub Stats | GitHub Streak |
 |--------------|---------------|

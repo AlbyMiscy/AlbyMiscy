@@ -20,7 +20,7 @@
 <br>
 
 ## my stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiAlbyMiscy=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 
           

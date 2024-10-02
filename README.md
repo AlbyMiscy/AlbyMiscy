@@ -6,7 +6,7 @@
 </div>
 <br>
 
-## Tech Stack
+## Tech Stack :
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" width="40" style="background-color:#2E3440; border-radius:10px; padding:5px;"/>
@@ -18,6 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" height="40" width="40" style="background-color:#2E3440; border-radius:10px; padding:5px;"/>
 </p>
 <br>
+
+## GitHub Stats :
 
 ![](https://github-readme-stats.vercel.app/api?username=AlbyMiscy&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlbyMiscy&theme=dark&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)<br>

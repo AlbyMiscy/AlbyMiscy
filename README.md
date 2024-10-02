@@ -19,9 +19,7 @@
 </p>
 <br>
 
-## my stats
-```javascript
-import { SpeedInsights } from "@vercel/speed-insights/next"
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiAlbyMiscy=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
           

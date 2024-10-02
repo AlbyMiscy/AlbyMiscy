@@ -23,4 +23,3 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=AlbyMiscy&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlbyMiscy&theme=dark&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbyMiscy&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)

@@ -20,6 +20,7 @@
 <br>
 
 ## my stats
+```javascript
 import { SpeedInsights } from "@vercel/speed-insights/next"
 
 

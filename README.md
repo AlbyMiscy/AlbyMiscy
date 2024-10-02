@@ -28,4 +28,4 @@
 | ![](https://github-readme-stats.vercel.app/api?username=AlbyMiscy&theme=dark&hide_border=true&include_all_commits=false&count_private=false) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlbyMiscy&theme=dark&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats) |
 
 ## Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?quote=prova&type=vertical&theme=dark)

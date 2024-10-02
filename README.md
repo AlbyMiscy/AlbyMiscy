@@ -1,12 +1,8 @@
-<div align="center">
-    <img src="assets/coding.gif" width=800>
-    <hr>
-    <h1 align="center">Michelle Alberti</h1> 
+<div> 
+    <h1 align="center">Michelle Alberti</h1>
     <p align="center">Sono una studentessa di informatica di 21 anni, attualmente iscritta all'Università di Genova, ma originaria di Imperia. Mi appassiona tutto ciò che riguarda la programmazione e lo sviluppo software, e sto iniziando la mia carriera professionale lavorando in un'azienda a Genova.</p>
 </div>
 <br>
-
-[![](https://visitcount.itsvg.in/api?id=albymiscy&label=Profile%20Views&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 ## Tech Stack :
 

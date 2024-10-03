@@ -1,5 +1,5 @@
 <div> 
-    <h1 align="center">Ciao :wave:, Michelle Alberti</h1>
+    <h1 align="center">Ciao :wave:, sono Michelle Alberti</h1>
     <p align="center">Sono una studentessa di informatica di 21 anni, attualmente iscritta all'Università di Genova, ma originaria di Imperia. Mi appassiona tutto ciò che riguarda la programmazione e lo sviluppo software, e sto iniziando la mia carriera professionale lavorando in un'azienda a Genova.</p>
 </div>
 <br>

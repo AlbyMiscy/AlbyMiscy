@@ -64,8 +64,6 @@
 
 ### My GitHub Stats
 
-### My GitHub Stats
-
 <div align="center">
   <a href="http://www.github.com/AlbyMiscy">
     <img src="https://github-readme-stats-miscys-projects.vercel.app/api?username=AlbyMiscy&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&show_icons=true" alt="AlbyMiscy's GitHub stats" />

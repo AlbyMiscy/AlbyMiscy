@@ -1,10 +1,22 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Michelle Alberti
 
+<table>
+  <tr>
+    <td style="width: 50%;">
+    
 ## Student at the University of Genoa, studying computer science.
 
 ### About Me
 - 🌍 Based in Genoa  
 - ✉️ Contact me at [albymiscy07@outlook.it](mailto:albymiscy07@outlook.it)
+
+    </td>
+    <td style="width: 50%;">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXU5eHpiOTE5cnExbGxhN2Rmbm56YXI1ODk3N2diNDM1a21jOXhhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="GIF" style="max-width: 100%; height: auto;">
+    </td>
+  </tr>
+
+</table>
 
 ---
 
@@ -43,8 +55,6 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
 
----
-
 ## Socials
 
 <p align="center">
@@ -58,11 +68,7 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" /></a>
 </p>
 
----
-
-## Badges
-
-### My GitHub Stats
+## My GitHub Stats
 
 <div align="center">
   <a href="http://www.github.com/AlbyMiscy">

@@ -73,7 +73,7 @@
 
 ## My GitHub Stats
 
-<table>
+<table align="center">
   <tr>
     <!-- Colonna 1: Top Languages -->
     <td style="width: 50%;">

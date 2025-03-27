@@ -70,12 +70,12 @@
 
 ## My GitHub Stats
 
-<div align="center">
+<div align="left">
   <a href="http://www.github.com/AlbyMiscy">
     <img src="https://github-readme-stats-miscys-projects.vercel.app/api?username=AlbyMiscy&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&show_icons=true" alt="AlbyMiscy's GitHub stats" />
   </a>
 
-  <a href="https://github.com/AlbyMiscy" align="center">
+  <a href="https://github.com/AlbyMiscy" align="left">
     <img src="https://github-readme-stats-miscys-projects.vercel.app/api/top-langs/?username=AlbyMiscy&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
   </a>
 </div>

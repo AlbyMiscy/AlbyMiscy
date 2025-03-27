@@ -64,8 +64,5 @@
 
 ### My GitHub Stats
 
-<details>
-  <summary>::zap GitHub Stats</summary>
-  <img align="left" alt="GitHub stats" src="https://github-readme-stats-miscys-projects.vercel.app/api?username=AlbyMiscy&show_icons=true&hide_border=true" />
-</details>
+<img align="left" alt="GitHub stats" src="https://github-readme-stats-miscys-projects.vercel.app/api?username=AlbyMiscy&show_icons=true&hide_border=true" />
 

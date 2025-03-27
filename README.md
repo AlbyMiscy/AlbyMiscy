@@ -19,7 +19,6 @@
 </table>
 
 ---
-
 ## Skills
 
 <p align="center">
@@ -57,16 +56,20 @@
 
 ## Socials
 
-<p align="center">
-<a href="https://discord.com/users/albymiscy03" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" /></a>
-<a href="https://www.facebook.com/Michelle Alberti" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" /></a>
-<a href="https://www.github.com/AlbyMiscy" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
-<a href="http://www.instagram.com/albymiscy" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" /></a>
-</p>
+<div align="center">
+  <a href="https://www.instagram.com/albymiscy" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+  
+  <a href="https://discord.com/users/albymiscy03" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  </a>
+
+  <a href="https://www.github.com/AlbyMiscy" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
+  </a>
+</div>
+
 
 ## My GitHub Stats
 
@@ -74,13 +77,10 @@
   <tr>
     <!-- Colonna 1: Top Languages -->
     <td style="width: 50%;">
-      <img src="https://github-readme-stats-miscys-projects.vercel.app/api/top-langs/?username=AlbyMiscy&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+      <img src="https://github-readme-stats-miscys-projects.vercel.app/api/top-langs/?username=AlbyMiscy&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" />
     </td>
     <td style="width: 50%;">
       <img src="https://github-readme-stats-miscys-projects.vercel.app/api?username=AlbyMiscy&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&show_icons=true" alt="AlbyMiscy's GitHub stats" />
     </td>
   </tr>
 </table>
-
-
-
